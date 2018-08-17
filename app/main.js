@@ -12,7 +12,7 @@ const dialog = electron.dialog;
 const ipcMain = electron.ipcMain;
 const nativeImage = electron.nativeImage;
 
-const DEFAULT_CHAT_URL = "https://www.hipchat.com/chat";
+const DEFAULT_CHAT_URL = "https://hipchat.cmcrc.com/chat";
 
 // Keep a global reference of the window object, if you don't, the window will
 // be closed automatically when the JavaScript object is garbage collected.
